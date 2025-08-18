@@ -2,4 +2,4 @@
 @custom-variant hover (&:hover);
 @custom-variant dark (&:where(.dark, .dark *));
 
-html, body, #root {font-family:  "Outfit", sans-serif; height: 100%; scroll-behavior: smooth;}
+html, body, #root {font-family:  "Lato", sans-serif; height: 100%; scroll-behavior: smooth;}
