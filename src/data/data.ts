@@ -141,15 +141,12 @@ export const experiences = [
     company: 'Punjab National Bank',
     period: 'June 2023 — August 2023',
     bullets: [
-      'Completed hands-on IT support training under supervision of a branch manager.',
-      `Assisted with diagnosing and resolving basic desktop, printer, network, and Microsoft Office issues for staff.
-`,
-      'Supported setup of Windows workstations, updates, email configurations, and local network printers.',
-      'Observed internal ticket handling processes and learned how enterprise banking systems are maintained.',
-      'Provided informal troubleshooting to employees, improving uptime and staff workflow.',
-      'Developed an understanding of IT security, confidentiality, and compliance in a banking environment.',
-      'Gained exposure to how technical support integrates with business operations in real time.',
-      'Shadowed IT personnel when software issues & resolve them with speed & precision.',
+      'Provided help desk support by assisting with first-tier IT issues including Windows operating systems, Microsoft 365 applications, and computer hardware troubleshooting.',
+      'Resolved end-user technical support requests related to desktops, laptops, printers, and local networking.',
+      'Documented support issues in internal systems and followed proper IT support services and ticketing workflows.',
+      'Assisted with account setup, password resets, and workstation configuration for bank employees.',
+      'Delivered customer service and communication support, ensuring timely resolution and user satisfaction.',
+      'Shadowed senior IT staff to gain a deeper understanding of IT system security and compliance.',
     ],
   },
 ];
