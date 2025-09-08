@@ -141,12 +141,13 @@ export const experiences = [
     company: 'Punjab National Bank',
     period: 'June 2023 — August 2023',
     bullets: [
-      'Provided help desk support by assisting with first-tier IT issues including Windows operating systems, Microsoft 365 applications, and computer hardware troubleshooting.',
-      'Resolved end-user technical support requests related to desktops, laptops, printers, and local networking.',
-      'Documented support issues in internal systems and followed proper IT support services and ticketing workflows.',
-      'Assisted with account setup, password resets, and workstation configuration for bank employees.',
-      'Delivered customer service and communication support, ensuring timely resolution and user satisfaction.',
-      'Shadowed senior IT staff to gain a deeper understanding of IT system security and compliance.',
+      'Delivered first-level IT support and user support, resolving service requests related to Windows OS, Microsoft Office 365, desktops, laptops, and printers.',
+
+      'Performed hardware/software troubleshooting and desktop support, escalating advanced networking issues to senior IT staff.',
+      'Assisted with user authentication, account setup, and login management to support secure daily operations.',
+      'Contributed to inventory management by maintaining accurate records of devices and access credentials.',
+      'Shadowed senior technicians to gain knowledge in IT systems, networking fundamentals, and IT security protocols.',
+      'Communicated technical solutions clearly, improving end-user satisfaction and building strong interpersonal skills.',
     ],
   },
 ];
